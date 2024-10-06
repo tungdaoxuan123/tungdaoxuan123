@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tungdaoxuan123
 - 👀 I’m interested in AI, Machine learning, etc
-- 🌱 I’m currently learning Computer vision and NLP
+- 🌱 I’m currently learning Backend and DevOps Stack
 - 📫 How to reach me:
    [www.linkedin.com/in/tung-dao12122001](https://www.linkedin.com/in/tung-dao-xuan/)
 
