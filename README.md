@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Machine learning, etc
 - 🌱 I’m currently learning Backend and DevOps Stack
 - 📫 How to reach me:
-   [www.linkedin.com/in/tung-dao12122001](https://www.linkedin.com/in/tung-dao-xuan/)
+   [LinkedIn](https://www.linkedin.com/in/tung-dao-xuan/)
 
 <!---
 tungdaoxuan123/tungdaoxuan123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
